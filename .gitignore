@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+.cache/
+.tools/
+source/.mygo/
+source/.mygo*.go
+source/*.exe
+test-results/
+*.log
+.env
+.env.*
+!.env.example

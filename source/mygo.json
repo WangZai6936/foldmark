@@ -1,0 +1,17 @@
+{
+  "name": "Foldmark",
+  "identifier": "com.foldmark.desktop",
+  "version": "0.5.0",
+  "icon": "assets/icon.png",
+  "out": "../release/0.5.0",
+  "i18n": { "dir": "locales", "source": "zh-Hans" },
+  "bindings": "frontend/src/lib/mygo.ts",
+  "devUrl": "http://localhost:5173",
+  "devCommand": "pnpm --dir frontend run dev",
+  "buildCommand": "pnpm --dir frontend run build",
+  "frontendDist": "frontend/dist",
+  "linux": { "webview": true },
+  "fileAssociations": [
+    { "ext": ["md", "markdown", "mdown"], "name": "Markdown Document", "mimeType": "text/markdown" }
+  ]
+}

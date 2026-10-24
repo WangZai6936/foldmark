@@ -1,0 +1,8 @@
+{
+  "new": "新建文档", "open": "打开文件", "folder": "打开文件夹", "save": "保存", "saveAs": "另存为", "export": "导出 HTML",
+  "files": "文件", "outline": "大纲", "edit": "编辑", "split": "分栏", "preview": "预览", "recent": "最近打开", "opened": "已打开",
+  "workspace": "我的工作空间", "local": "文件保存在本机", "search": "查找文档…", "settings": "偏好设置", "help": "帮助与快捷键",
+  "done": "完成", "empty": "新的一页，新的想法。", "emptyHint": "打开一份 Markdown，或从空白开始。",
+  "saveDraft": "本地草稿恢复已开启", "unsaved": "未保存", "saved": "已保存", "draft": "草稿", "writing": "专注写作",
+  "formatHeading": "标题", "bold": "加粗", "italic": "斜体", "quote": "引用", "bullet": "列表", "task": "任务清单", "link": "链接", "code": "代码块", "table": "表格"
+}
